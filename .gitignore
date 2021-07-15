@@ -1,1 +1,10 @@
 me_ignore.txt
+
+#Todos arquivos .py
+*.py
+
+#Ignora este arquivo de ignorar todos
+!arquivo_3.py
+
+#Selecionar pasta
+pasta_teste/
